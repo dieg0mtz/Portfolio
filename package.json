@@ -34,7 +34,7 @@
     "vite": "^5.4.2"
   },
   {
-  "homepage": "https://tuusuario.github.io/mi-proyecto",
+  "homepage": "https://dieg0mtz.github.io/Portfolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
